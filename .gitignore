@@ -121,7 +121,7 @@ celerybeat.pid
 
 # Environments
 .env
-.venv
+.venv-docker-hello-world/
 env/
 venv/
 ENV/
